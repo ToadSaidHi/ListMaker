@@ -1,0 +1,15 @@
+C:\Users\wills\source\repos\listCreator\listCreator\bin\Debug\net5.0\listCreator.exe
+C:\Users\wills\source\repos\listCreator\listCreator\bin\Debug\net5.0\listCreator.deps.json
+C:\Users\wills\source\repos\listCreator\listCreator\bin\Debug\net5.0\listCreator.runtimeconfig.json
+C:\Users\wills\source\repos\listCreator\listCreator\bin\Debug\net5.0\listCreator.runtimeconfig.dev.json
+C:\Users\wills\source\repos\listCreator\listCreator\bin\Debug\net5.0\listCreator.dll
+C:\Users\wills\source\repos\listCreator\listCreator\bin\Debug\net5.0\ref\listCreator.dll
+C:\Users\wills\source\repos\listCreator\listCreator\bin\Debug\net5.0\listCreator.pdb
+C:\Users\wills\source\repos\listCreator\listCreator\obj\Debug\net5.0\listCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wills\source\repos\listCreator\listCreator\obj\Debug\net5.0\listCreator.AssemblyInfoInputs.cache
+C:\Users\wills\source\repos\listCreator\listCreator\obj\Debug\net5.0\listCreator.AssemblyInfo.cs
+C:\Users\wills\source\repos\listCreator\listCreator\obj\Debug\net5.0\listCreator.csproj.CoreCompileInputs.cache
+C:\Users\wills\source\repos\listCreator\listCreator\obj\Debug\net5.0\listCreator.dll
+C:\Users\wills\source\repos\listCreator\listCreator\obj\Debug\net5.0\ref\listCreator.dll
+C:\Users\wills\source\repos\listCreator\listCreator\obj\Debug\net5.0\listCreator.pdb
+C:\Users\wills\source\repos\listCreator\listCreator\obj\Debug\net5.0\listCreator.genruntimeconfig.cache
